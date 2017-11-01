@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Version 1.0 by Rosanne Vetro - August 2013
+# Script for running Results Refiner
+
+# Script parameters 
+SRCJAR=Results.jar
+MANIFEST=manifest.txt
+
+javac  *.java
+
+jar cvfm $SRCJAR $MANIFEST *.class
+
+
+exit 0  
+
+
