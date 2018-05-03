@@ -1,15 +1,6 @@
 # TDJD
 This is the github page related to the research paper entitled "Detecting Chromosomal Structural Variation using Jaccard Distance and Parallel Architecture" that published at BIBM17 conference. Here it is the link (https://ieeexplore.ieee.org/abstract/document/8217962/) to the paper.  If you used this source code, please cite this paper.
 
-@inproceedings{mohebbi2017detecting,
-  title={Detecting chromosomal structural variation using jaccard distance and parallel architecture},
-  author={Mohebbi, Hamidreza and Vajdi, Amir and Haspel, Nurit and Simovici, Dan},
-  booktitle={Bioinformatics and Biomedicine (BIBM), 2017 IEEE International Conference on},
-  pages={1959--1964},
-  year={2017},
-  organization={IEEE}
-}
-
 In this work, we proposed a method called TDJD that identifies the location of inter-chromosomal breakpoints corresponding to 
 large scale structural variations, in particular translocations and insertions.
 
